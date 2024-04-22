@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif; 
+}
+
+.contenido h1{
+ font-size: 150%;
+ margin-top: 12%;
+
+}
+.cabecera img {
+    display: inline-block; 
+    vertical-align: middle; 
+    width: 220px; 
+    height: 80px; 
+}
+
+
+.cabecera h2 {
+    display: inline-block; 
+    vertical-align: middle; 
+    margin-left: 10px; 
+    font-size:  medium; 
+}
+
+table {
+    margin-top: 5%; 
+    font-family: Arial, sans-serif; 
+    width: 100%; 
+
+}
+
+table th {
+    background-color: #2c2c2c;
+    color: white;
+    
+}
+
+table td {
+    padding: 8px; 
+    border: 2px solid #000000; 
+}
+
+
+
+table td[colspan="4"] {
+    text-align: center;
+}
